@@ -24,7 +24,7 @@ To obtain the files you'll be using to deploy the sample application, clone the 
 
 ```bash
 git clone https://github.com/dapr/quickstarts.git
-cd quickstarts/hello-kubernetes
+cd quickstarts/tutorials/hello-kubernetes
 ```
 
 ## Create and configure a state store
